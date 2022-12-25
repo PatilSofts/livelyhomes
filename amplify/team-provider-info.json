@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-livelyhomes-dev-120423-authRole",
+      "UnauthRoleArn": "arn:aws:iam::192985197452:role/amplify-livelyhomes-dev-120423-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::192985197452:role/amplify-livelyhomes-dev-120423-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-livelyhomes-dev-120423-deployment",
+      "UnauthRoleName": "amplify-livelyhomes-dev-120423-unauthRole",
+      "StackName": "amplify-livelyhomes-dev-120423",
+      "StackId": "arn:aws:cloudformation:ap-south-1:192985197452:stack/amplify-livelyhomes-dev-120423/87ea6b80-778b-11ed-9ee5-02128d3c043e",
+      "AmplifyAppId": "d2dxvd52c9y1a"
+    },
+    "categories": {
+      "auth": {
+        "livelyhomes6a5d553b": {}
+      },
+      "api": {
+        "livelyhomes": {}
+      }
+    }
+  }
+}
